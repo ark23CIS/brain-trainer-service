@@ -16,6 +16,7 @@
     ".tsx"
   ]
   }],
+  "import/no-unresolved": "off",
   "import/prefer-default-export": 0,
   "import/extensions": [1, "ignorePackages", {
     "ts": "never",
